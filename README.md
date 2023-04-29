@@ -2,6 +2,12 @@
 
 ![giphy-3404994026](https://user-images.githubusercontent.com/132134370/235297836-066ba2a8-1884-49d1-bbcc-48f6d4c637b5.gif)
 
+# Contact:
+### <b>Matrix:@triflic:matrix.org</b>
+
+### <b>Wire:@triflic</b>
+
+### <b>Email:triflicacid@proton.me</b>
 
 <h1>PGP KEY:</h1>
 <pre>
